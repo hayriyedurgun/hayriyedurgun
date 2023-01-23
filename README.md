@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/hayriye-ilk">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="ilkhayriye@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+   <a href="mailto:ilkhayriye@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:ilkhayriye@gmail.com" alt="Gmail Badge"/>
   </a>
 </div>
 <h1 align="center">
