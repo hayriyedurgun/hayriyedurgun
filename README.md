@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:ilkhayriye@gmail.com" alt="Gmail Badge"/>
   </a>
 </div>
-<h1 align="center">
+<h2 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 <!--
 **hayriyedurgun/hayriyedurgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
